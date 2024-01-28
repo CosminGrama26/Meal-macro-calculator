@@ -1,0 +1,4 @@
+pytest
+fuzzywuwzzy
+python-Levenshtein 0.23.0
+tabulate
