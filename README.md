@@ -1,5 +1,5 @@
 # MEAL CALORIES AND MACROS CALCULATOR
-## Video Demo:  <https://youtu.be/7AQVHSunyyA>
+### Video Demo:  <https://youtu.be/7AQVHSunyyA>
 ## Description:
 This Python program helps the user keep track of the macro nutrient values and calories of a meal. The user can search for a food type from an already existent list and add that food and quantity to the meal. If the food is not found in the list, the program proposes similar results, and the user can choose among them, or alternatively, he can choose to add a new type of food to the list and to his meal. At any point, the user can choose to go back or to quit the program. At the end, a table with the meal data will be printed.
 
